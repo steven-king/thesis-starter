@@ -1,6 +1,6 @@
 # UNC jSchool Thesis Project Starter
 
-## Starting point to create a data-driven project or web project. The purpose of this repo is to create a standard that is resuabled and as future-proof as possible.
+## Starting point to create a data-driven project or web project. The purpose of this repo is to create a standard that is reusable and as future-proof as possible.
 
 If you do not know how to use Git and virtual machine, please see Steven King.
 
